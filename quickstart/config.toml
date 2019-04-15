@@ -1,0 +1,4 @@
+baseURL = "http://www.paulstuart.org/"
+languageCode = "en-us"
+title = "My Site"
+theme = "ananke"
